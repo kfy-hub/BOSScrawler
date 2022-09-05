@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662394192024</updated>
       <workItem from="1662394202252" duration="79000" />
-      <workItem from="1662394358544" duration="305000" />
+      <workItem from="1662394358544" duration="1124000" />
     </task>
     <servers />
   </component>
@@ -77,12 +77,28 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1662395486593">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.738/-1600.0.1600.870@0.0.1366.738" timestamp="1662395486593" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1662395486593">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.738/-1600.0.1600.870@0.0.1366.738" timestamp="1662395486593" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1662395486593">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.738/-1600.0.1600.870@0.0.1366.738" timestamp="1662395486593" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1662395486593">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.738/-1600.0.1600.870@0.0.1366.738" timestamp="1662395486593" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1662394663507">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738/-1600.0.1600.870@0.0.1366.738" timestamp="1662394663507" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DataMining$boss.coverage" NAME="boss Coverage Results" MODIFIED="1662394681680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataMining$boss.coverage" NAME="boss Coverage Results" MODIFIED="1662395066308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
